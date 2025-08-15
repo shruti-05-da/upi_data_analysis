@@ -17,6 +17,9 @@ The dataset—sourced from public transaction statistics—was messy and unstruc
 
 # LIBRARIES USED 
 Excel for Initial cleaning, missing value handling, data reshaping, pivot tables.
+
 Python for Data preprocessing, transformation, statistical calculations, and visualization.
+
 Power BI fpr Dashboard creation, interactive charts, DAX measures for KPIs.
+
 and Libraries in Python such as Pandas, NumPy, Matplotlib, Seaborn.
